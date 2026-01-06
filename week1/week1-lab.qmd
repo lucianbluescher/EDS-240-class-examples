@@ -1,5 +1,7 @@
 ---
 title: "week1-lab"
+author: Lucian Scher
+data: todays-date
 format: html
 ---
 
